@@ -28,7 +28,7 @@ export default function CharacterForm() {
         <label htmlFor="nb">They/Them</label>
       </p>
       <p>
-        <label htmlFor="smell">Character's favorite smell: </label>
+        <label htmlFor="smell">Character's favorite Star Wars Character: </label>
         <br />
         <input type="text" name="smell" id="charsmell" />
       </p>
